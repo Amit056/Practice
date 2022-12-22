@@ -9,7 +9,7 @@
 	</properties>
   
   	<build>
-  	<pluginManagement>
+  	
   	<plugins>
   
    <plugin>
@@ -25,7 +25,7 @@
 
 
   	</plugins>
-  	</pluginManagement>
+  
   	</build>  
   <dependencies>
 <dependency>
